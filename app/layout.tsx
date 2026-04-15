@@ -22,17 +22,18 @@ const jetbrainsMono = JetBrains_Mono({
   display: "swap",
 });
 
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://portfolio-sepia-five-iygy72c138.vercel.app";
+
 export const metadata: Metadata = {
-  metadataBase: new URL("https://lalitchauhan.dev"),
+  metadataBase: new URL(siteUrl),
   title: `${siteConfig.name} — ${siteConfig.role}`,
   description: siteConfig.description,
   openGraph: {
     title: `${siteConfig.name} — ${siteConfig.role}`,
     description: siteConfig.description,
-    url: "https://lalitchauhan.dev",
+    url: siteUrl,
     siteName: siteConfig.name,
     type: "website",
-    images: [{ url: siteConfig.ogImage, width: 1200, height: 630, alt: `${siteConfig.name} — ${siteConfig.role}` }],
   },
   twitter: {
     card: "summary_large_image",
