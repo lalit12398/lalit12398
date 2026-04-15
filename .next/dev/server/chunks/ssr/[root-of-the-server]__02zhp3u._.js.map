@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/lalitchauhan/Workspace/portfolio/components/providers.tsx"],"sourcesContent":["\"use client\";\n\nimport { ThemeProvider as NextThemesProvider } from \"next-themes\";\nimport type { ComponentProps } from \"react\";\n\nexport function ThemeProvider({\n  children,\n  ...props\n}: ComponentProps<typeof NextThemesProvider>) {\n  return <NextThemesProvider {...props}>{children}</NextThemesProvider>;\n}\n"],"names":["ThemeProvider","children","props"],"mappings":";;;;;AAEA;AAFA;;;AAKO,SAASA,cAAc,EAC5BC,QAAQ,EACR,GAAGC,OACuC;IAC1C,qBAAO,+YAAC,ySAAkB;QAAE,GAAGA,KAAK;kBAAGD;;;;;;AACzC"}}]
+}
