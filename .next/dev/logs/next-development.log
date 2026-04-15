@@ -1,0 +1,25 @@
+{"timestamp":"00:00:00.309","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:04.819","source":"Server","level":"WARN","message":"⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using \"http://localhost:3000\". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase"}
+{"timestamp":"08:44:40.531","source":"Server","level":"WARN","message":"⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using \"http://localhost:3000\". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase"}
+{"timestamp":"08:44:40.535","source":"Browser","level":"ERROR","message":"Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}"}
+{"timestamp":"08:44:40.535","source":"Browser","level":"ERROR","message":"Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}"}
+{"timestamp":"08:44:40.535","source":"Browser","level":"ERROR","message":"Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}"}
+{"timestamp":"08:44:40.535","source":"Browser","level":"ERROR","message":"Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}"}
+{"timestamp":"08:44:40.535","source":"Browser","level":"ERROR","message":"unhandledRejection: undefined"}
+{"timestamp":"08:44:40.536","source":"Server","level":"ERROR","message":"[browser] \"Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation.\" \"TypeError: Load failed\""}
+{"timestamp":"08:44:40.536","source":"Browser","level":"ERROR","message":"Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. \"TypeError: Load failed\""}
+{"timestamp":"08:44:40.536","source":"Server","level":"ERROR","message":"[browser] \"Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation.\" \"TypeError: Load failed\""}
+{"timestamp":"08:44:40.536","source":"Browser","level":"ERROR","message":"Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. \"TypeError: Load failed\""}
+{"timestamp":"08:44:40.536","source":"Server","level":"ERROR","message":"[browser] \"Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation.\" \"TypeError: Load failed\""}
+{"timestamp":"08:44:40.536","source":"Browser","level":"ERROR","message":"Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. \"TypeError: Load failed\""}
+{"timestamp":"08:44:40.536","source":"Server","level":"ERROR","message":"[browser] \"Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation.\" \"TypeError: Load failed\""}
+{"timestamp":"08:44:40.536","source":"Browser","level":"ERROR","message":"Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. \"TypeError: Load failed\""}
+{"timestamp":"08:44:40.537","source":"Server","level":"ERROR","message":"[browser] \"\\\"⨯ unhandledRejection:\\\"\" undefined \"\\n\""}
+{"timestamp":"08:44:40.537","source":"Browser","level":"ERROR","message":"\"⨯ unhandledRejection:\" undefined \"\\n\""}
+{"timestamp":"08:44:43.158","source":"Server","level":"LOG","message":"✓ Compiled in 27ms"}
+{"timestamp":"08:44:46.686","source":"Server","level":"LOG","message":"✓ Compiled in 22ms"}
+{"timestamp":"08:45:00.743","source":"Server","level":"LOG","message":"✓ Compiled in 19ms"}
+{"timestamp":"08:45:12.729","source":"Server","level":"LOG","message":"✓ Compiled in 15ms"}
+{"timestamp":"09:04:13.955","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/lalitchauhan/Workspace/portfolio/app'"}
+{"timestamp":"09:04:13.956","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection:\" Error: ENOENT: no such file or directory, scandir '/Users/lalitchauhan/Workspace/portfolio/app'"}
+{"timestamp":"09:04:13.957","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection: \" Error: ENOENT: no such file or directory, scandir '/Users/lalitchauhan/Workspace/portfolio/app'"}

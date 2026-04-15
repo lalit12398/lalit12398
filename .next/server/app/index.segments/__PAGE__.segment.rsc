@@ -1,0 +1,15 @@
+1:"$Sreact.fragment"
+2:I[59507,["/_next/static/chunks/090pxmzq4pcrr.js","/_next/static/chunks/12qvsfvmh_..a.js","/_next/static/chunks/05iga--zqexo~.js"],"Navbar"]
+3:I[36181,["/_next/static/chunks/090pxmzq4pcrr.js","/_next/static/chunks/12qvsfvmh_..a.js","/_next/static/chunks/05iga--zqexo~.js"],"Hero"]
+4:I[95677,["/_next/static/chunks/090pxmzq4pcrr.js","/_next/static/chunks/12qvsfvmh_..a.js","/_next/static/chunks/05iga--zqexo~.js"],"About"]
+5:I[4716,["/_next/static/chunks/090pxmzq4pcrr.js","/_next/static/chunks/12qvsfvmh_..a.js","/_next/static/chunks/05iga--zqexo~.js"],"Impact"]
+6:I[87290,["/_next/static/chunks/090pxmzq4pcrr.js","/_next/static/chunks/12qvsfvmh_..a.js","/_next/static/chunks/05iga--zqexo~.js"],"Experience"]
+7:I[98072,["/_next/static/chunks/090pxmzq4pcrr.js","/_next/static/chunks/12qvsfvmh_..a.js","/_next/static/chunks/05iga--zqexo~.js"],"Skills"]
+8:I[98319,["/_next/static/chunks/090pxmzq4pcrr.js","/_next/static/chunks/12qvsfvmh_..a.js","/_next/static/chunks/05iga--zqexo~.js"],"Contribution"]
+9:I[91133,["/_next/static/chunks/090pxmzq4pcrr.js","/_next/static/chunks/12qvsfvmh_..a.js","/_next/static/chunks/05iga--zqexo~.js"],"Projects"]
+a:I[53936,["/_next/static/chunks/090pxmzq4pcrr.js","/_next/static/chunks/12qvsfvmh_..a.js","/_next/static/chunks/05iga--zqexo~.js"],"Blog"]
+b:I[30618,["/_next/static/chunks/090pxmzq4pcrr.js","/_next/static/chunks/12qvsfvmh_..a.js","/_next/static/chunks/05iga--zqexo~.js"],"Contact"]
+c:I[81041,["/_next/static/chunks/090pxmzq4pcrr.js","/_next/static/chunks/12qvsfvmh_..a.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}]]}]],[["$","script","script-0",{"src":"/_next/static/chunks/05iga--zqexo~.js","async":true}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dVLN5kpAoIZDkr1HQi6bZ"}
+e:null
