@@ -171,6 +171,14 @@ export const contributions = [
 
 export const projects = [
   {
+    title: "RAGify",
+    description: "A production-ready RAG with hybrid retrieval and LLM architecture. Features Agnostic AI Synthesis along with vector search and contextual caching layers.",
+    tags: ["RAG", "ReactJs", "Tailwind", "Vector Search", "LLM  "],
+    status: "In Progress",
+    github: "https://github.com/lalit12398/RAGify", // TODO: add GitHub URL
+    demo: null,   // TODO: add live demo URL
+  },
+  {
     title: "Monorepo Starter Template",
     description: "A production-ready Turborepo + Next.js + Tailwind + ShadCN monorepo with design token system and automated CI/CD.",
     tags: ["Turborepo", "Next.js", "Tailwind", "GitHub Actions"],
